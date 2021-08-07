@@ -1,4 +1,4 @@
-# Python Challenge 1: PyBank
+# Python Challenge 1 - PyBank
 ### Objective
 Develop a Python code that analyzes a company's financial records and creates a summary output of the results.
 
@@ -17,7 +17,7 @@ The Python code should loop through all of the entries and create a summary tabl
 
 In addition to printing the anaylsis results into the terminal, the code should export the results into a text file.
 
-# Python Challenge 2: PyPoll
+# Python Challenge 2 - PyPoll
 ### Objective
 Develop a Python code that analyzes the votes from a town's election data and creates a summary output of the results.
 
